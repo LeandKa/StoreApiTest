@@ -15,3 +15,6 @@ Tasks
 - [x] CartItem
 - Simulação de Pedido Aceito
 - Geração de Boleto
+
+Demonstração da Api em produção https://novasotre-f5599.web.app
+
