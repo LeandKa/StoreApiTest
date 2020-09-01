@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "root",
+    "password": "123",
+    "database": "StoreDataBase",
+    "host": "192.168.99.100",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "root",
+    "password": "123",
+    "database": "StoreDataBaseTest",
+    "host": "192.168.99.100",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "root",
+    "password": "123",
+    "database": "StoreDataBaseProduction",
+    "host": "192.168.99.100",
+    "dialect": "mysql"
+  }
+}
